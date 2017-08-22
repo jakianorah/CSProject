@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2017
+====================
+Name of Staff: Carol
+Hours Worked: 6
+
+Basic Pay: $180.00
+Overtime: $0.00
+
+====================
+Total Pay: $180.00
+====================

@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2017
+====================
+Name of Staff: Yvonne
+Hours Worked: 32
+
+Basic Pay: $1,600.00
+Allowance: $0.00
+
+====================
+Total Pay: $1,600.00
+====================

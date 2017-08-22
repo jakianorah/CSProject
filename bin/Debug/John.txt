@@ -1,0 +1,11 @@
+PAYSLIP FOR AUG 2017
+====================
+Name of Staff: John
+Hours Worked: 40
+
+Basic Pay: $1,200.00
+Overtime: $0.00
+
+====================
+Total Pay: $1,200.00
+====================
